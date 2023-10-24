@@ -1,5 +1,5 @@
 # hall-booking
-API for hal booking
+API for hall booking
 
 - GET Request
 - `/room`
